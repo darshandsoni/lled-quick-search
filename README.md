@@ -13,3 +13,5 @@ Paste all the contents of the index.html file into the page you'd like to use th
 ## Cheeky keyword / alternative word workaround
 
 Users don't always search an exact word but this is a very simple, quick regex search - not an intelligent Google-esque search engine. To accomodate the fact that users might use different words, you can add potential alternative words within the *searchable-item* divs. Remember that as long as some text is in a searchable-item div, it can be found. To hide it, just give it the *hiddentext* class and you're good to go. The same is true for including keywords that you don't want to show, but want to make searchable nonetheless. This allows us to include a whole list of things that can be searched, but use simple CSS to hide them. Use with care - this is **not** an advanced search engine, it is simply a way to quickly find things on a page. (Without good old Ctrl+F).
+
+<iframe src='https://gfycat.com/ifr/HardRepentantHousefly' frameborder='0' scrolling='no' width='640' height='' allowfullscreen></iframe>
